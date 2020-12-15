@@ -1,12 +1,14 @@
+### 一. 背景：  
 突然，发现！github显示不了头像，文章里的图片也显示不出来。想着是内网网速问题，就没管了。  
 但是，过了几天，翻墙网速也不佳，连网页都进不去……    
 于是，我发现，这是个问题，需要解决一下。   
 ![](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=1197072620,3809781488&fm=26&gp=0.jpg)
 >
-#### (1) 按路径打开C:\Windows\System32\drivers\etc,找到hosts  
-#### (2) 右击属性，安全，编辑，勾选允许写入。经过上一步，可以在hosts写入新东西了。      
+### 二. 解决步骤：  
+#### (2.1) 按路径打开C:\Windows\System32\drivers\etc,找到hosts  
+#### (2.2) 右击属性，安全，编辑，勾选允许写入。经过上一步，可以在hosts写入新东西了。      
 ![](https://ftp.bmp.ovh/imgs/2020/12/aa35b7b11bc99ace.png)
-#### (3) 双击hosts，打开来修改。我用pycharm编辑器编辑，大家按照各自习惯选择即可。  
+#### (2.3) 双击hosts，打开来修改。我用pycharm编辑器编辑，大家按照各自习惯选择即可。  
 在hosts的最后，复制下列设置并保存即可。      
 ```
 # GitHub Start
