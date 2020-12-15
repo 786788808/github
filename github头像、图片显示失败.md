@@ -30,6 +30,7 @@
  # GitHub End
  ```
  看图片：  
- ![](https://ftp.bmp.ovh/imgs/2020/12/576bdadb2cbb03eb.png)
- 保存之后，刷新github即可。
+ ![](https://ftp.bmp.ovh/imgs/2020/12/576bdadb2cbb03eb.png)  
+ 保存之后，刷新github即可。  
+![](https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3728565027,38407514&fm=26&gp=0.jpg)
  
