@@ -38,7 +38,8 @@ Git是分布式的代码管理工具，远程的代码管理是基于SSH的，�
 接下来，把公钥 id_rsa.pub 加到 GitHub，让本地的密钥 id_rsa 和 GitHub 上的公钥id_rsa.pub 匹配
 
 ##### 2.2 种 key
-![image](https://user-images.githubusercontent.com/32427537/179391688-0c6110f2-9682-4e86-b4b8-4760f483b78e.png)![image](https://user-images.githubusercontent.com/32427537/179391763-3f358349-c17a-429e-b8c6-ebd0c0f82803.png)![image](https://user-images.githubusercontent.com/32427537/179391783-23094f6e-023f-433d-8ca4-6171c8df8cf9.png)   
+![image](https://user-images.githubusercontent.com/32427537/179391688-0c6110f2-9682-4e86-b4b8-4760f483b78e.png)![image](https://user-images.githubusercontent.com/32427537/179391763-3f358349-c17a-429e-b8c6-ebd0c0f82803.png)
+![image](https://user-images.githubusercontent.com/32427537/179391919-cdbc943e-2a9b-4941-9054-7e03e56bd222.png)  
 ![image](https://user-images.githubusercontent.com/32427537/179391851-ddf5bd32-d6a8-4aeb-bc81-5afdb1ecc32a.png)
  
 
