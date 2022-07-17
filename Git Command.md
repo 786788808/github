@@ -42,6 +42,10 @@ Git是分布式的代码管理工具，远程的代码管理是基于SSH的，�
 ![image](https://user-images.githubusercontent.com/32427537/179391919-cdbc943e-2a9b-4941-9054-7e03e56bd222.png)  
 ![image](https://user-images.githubusercontent.com/32427537/179391851-ddf5bd32-d6a8-4aeb-bc81-5afdb1ecc32a.png)
  
+##### 2.3 验证是否种key成功
+种完key，我的邮箱收到确认信息。and then, 用命令来试试水,`ssh -T git@github.com`    
+![image](https://user-images.githubusercontent.com/32427537/179392141-a2598029-d125-4e83-bcbd-a77d610f63de.png)  
+
 
 
 
