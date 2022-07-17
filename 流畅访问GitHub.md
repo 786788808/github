@@ -1,5 +1,7 @@
-### Background:
-平时上GitHub，时不时卡顿。卡多了，逐渐成为暴躁小哥……  
+#### 1.Background:
+平时上GitHub，时不时卡顿。卡多了，逐渐成为暴躁小哥……   
+
+#### 2.Solution:
 搜索后，发现其他小伙伴的方法，下载一个 FastGithub(听名字就知道用来干啥的)  
 [FastGithub](https://github.com/dotnetcore/FastGithub)
 也是在Github上下载的，下载后  
