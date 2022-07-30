@@ -9,6 +9,8 @@ First of all, need to install git. pls follow guide from google or Baidu to inst
 #### 1.基本操作  
 右键，Git Bash Here,既有窗口弹出  
 git status  
+查看仓库的状态。  
+
 git init  
 ![image](https://user-images.githubusercontent.com/32427537/179390780-641f4601-a15c-41c2-8dc9-d79e0ccf46da.png)
 
