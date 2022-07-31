@@ -1,6 +1,9 @@
 ### Git用法记录篇:pig::pig:
 
-anyway, start from 2022/07, hope to be better:smiling_imp::smiling_imp:
+anyway, start from 2022/07, hope to be better:smiling_imp::smiling_imp:  
+
+收集的资料：  
+- 中文版介绍git的书，看书名就很Pro:[Pro Git book](https://git-scm.com/book/zh/v2)
 
 First of all, need to install git. pls follow guide from google or Baidu to install it, easy installation.  
 首先选个做测试的目录，在E盘：E:\Git_repository\test  
@@ -20,8 +23,8 @@ First of all, need to install git. pls follow guide from google or Baidu to inst
 + **git commit**  
 + **git log**  
 `git log`可以看到谁提交过什么  
-`git log -2`,可以限制显示的提交数量,显示两个  
-`git log -p`,显示改了什么  
+`git log -2`,可以最近的两次提交  
+`git log -p`,显示每次提交所引入的差异  
 
 + **git branch**  
 git branch -d or git branch -D  
