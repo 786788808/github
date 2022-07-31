@@ -11,6 +11,14 @@ First of all, need to install git. pls follow guide from google or Baidu to inst
 
 #### 1.基本操作  
 右键，Git Bash Here,既有窗口弹出  
++ **配置用户名和邮件地址**  
+如果有用--global选项，那么该command只需要执行一次 
+`git config --global user.name "Hush"`
+`git config --global user.email hushemail@example.com`  
+
++ **查看配置信息**
+`git config --list`
+
 + **git status**  
 查看仓库的状态,这里的信息提示很友好，如果你忘了在整个提交代码过程中到了哪一步，no worry, just use `git status`to help you.  
 
