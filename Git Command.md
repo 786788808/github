@@ -8,22 +8,27 @@ First of all, need to install git. pls follow guide from google or Baidu to inst
 
 #### 1.基本操作  
 右键，Git Bash Here,既有窗口弹出  
-git status  
-查看仓库的状态。  
++ **git status**  
+查看仓库的状态,这里的信息提示很友好，如果你忘了在整个提交代码过程中到了哪一步，no worry, just use `git status`to help you.  
 
-git init  
++ **git init**  
 ![image](https://user-images.githubusercontent.com/32427537/179390780-641f4601-a15c-41c2-8dc9-d79e0ccf46da.png)
 
-git add  
++ **git add**  
 ![image](https://user-images.githubusercontent.com/32427537/179390694-ea9ad78f-2345-452a-8fcc-8afef12b10e8.png)  
 
-git commit  
-git log  
-git branch  
-git checkout  
-git merge  
++ **git commit**  
++ **git log**  
+`git log`可以看到谁提交过什么  
+`git log -2`,可以限制显示的提交数量,显示两个  
+`git log -p`,显示改了什么  
+
++ **git branch**  
 git branch -d or git branch -D  
-git tag  
+
++ **git checkout**  
++ **git merge**   
++ **git tag**  
 
 #### 2.实现通过 Git 向 Github 提交代码 
 anywany, git 还是 git， Github 还是 Github, 好像还没联动起来。 现在我们就去让他们联谊。  
